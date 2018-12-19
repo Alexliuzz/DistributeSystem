@@ -1,4 +1,4 @@
-package com.distributesystem.mapreduce;
+package com.distributedsystem.mapreduce;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;

@@ -1,4 +1,4 @@
-package com.distributesystem.hdfs.utils;
+package com.distributedsystem.hdfs.utils;
 
 import org.apache.hadoop.fs.BlockLocation;
 import org.apache.hadoop.fs.FileStatus;

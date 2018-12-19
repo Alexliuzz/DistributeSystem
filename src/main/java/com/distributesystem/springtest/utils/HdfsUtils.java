@@ -49,7 +49,7 @@ public class HdfsUtils {
     /**
      * 获取目标路径
      */
-    private String getDistPath(String path, String filename){
+    private String getDistPath(String path, String filename) {
 
         String distPath;
         if (path.substring(path.length() - 1).equals("/")) {

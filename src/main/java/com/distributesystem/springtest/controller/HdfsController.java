@@ -76,7 +76,7 @@ public class HdfsController {
      * 查看节点信息
      */
     @PostMapping("/getdatanodes")
-    public List<Map<String, Object>> HdfsNodeInfo() throws Exception{
+    public List<Map<String, Object>> HdfsNodeInfo() throws Exception {
 
         return hdfsUtils.getNodeInfo();
 

@@ -1,4 +1,4 @@
-package com.distributesystem.springtest.config;
+package com.distributesystem.hdfs.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
